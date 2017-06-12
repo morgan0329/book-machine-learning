@@ -1,4 +1,30 @@
 # 用Python构建机器学习系统（第二版）
 
-translation for building machine learning with python
+##### 目录
+
+用Python构建机器学习系统学分
+
+
+
+关于作者
+
+关于评论者
+
+www.PacktPub.com
+
+  支持文件，电子书，折扣优惠等等为什么订阅？
+
+  Packt账户持有人的免费访问前言
+
+   这本书涵盖了什么你需要这本书谁是这本书是为公约
+
+读者反馈客户支持
+
+下载示例代码勘误表
+
+盗版行为
+
+
+
+
 
